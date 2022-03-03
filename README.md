@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kennedy O Donkor
-- 👀 I’m interested in Data Engineering, Data Science, and Bioinformatics
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on any data engineering project
 - 📫 How to reach me by email at kenodonkor@gmail.com or by phone at 571 247 7648
